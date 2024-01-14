@@ -1,0 +1,8 @@
+.message{
+  background-color: lightcyan;
+  padding: 20px ;
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  border-radius: 10px;
+  border: 1px solid red;
+}
